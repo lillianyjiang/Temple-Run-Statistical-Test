@@ -5,8 +5,10 @@ About one year into quarantine I was getting restless. I can no longer skrt by o
 **Null Hypothesis**
 the mean of coins collected during the run powerup = mean of coins collected during coin powerup 
 
+
 **Alternative Hypothesis**
 the mean of coins collected during the run powerup > mean of coins collected during coin powerup 
+
 
 **Constants I took:**
 - I played temple run on the same map
